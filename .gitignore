@@ -1,0 +1,9 @@
+# Course material
+02 Code/
+resources/
+
+# Java build output and IDE files
+*.class
+.vscode/
+.idea/
+target/
