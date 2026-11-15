@@ -10,7 +10,6 @@ import java.time.LocalDate;
 import java.time.LocalDateTime;
 import java.time.Period;
 import java.time.format.DateTimeFormatter;
-import java.sql.Date;
 import java.time.Duration;
 
 public class AD_datetimeAPI {
